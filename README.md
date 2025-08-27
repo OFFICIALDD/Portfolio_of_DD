@@ -64,4 +64,5 @@ npm run build
 
 ---
 
-© 2024 Dhruv Dubey. Crafted with ❤️ and React.js
+
+© 2024 Dhruv Dubey. Crafted with React.js
